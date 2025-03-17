@@ -1,6 +1,4 @@
-*
-**
-*.*
+!*
 
-!*.md
+.gitignore
 README.md
