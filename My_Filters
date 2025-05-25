@@ -355,5 +355,5 @@ youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:conten
 # Reddit
 # sh.reddit.com,www.reddit.com,reddit.com##.Post:has([data-adclicklocation="title"] [data-click-id="body"]:is([href*="new to"],[href*="nubie"],[href*="nuby"],[href*="noob"],[href*="noobie"]))
 # sh.reddit.com,www.reddit.com,reddit.com##.Post:has([data-adclicklocation="title"] [data-click-id="body"]:is([href*="capitalism"],[href*="trump"],[href*="musk"]))
-sh.reddit.com,www.reddit.com,reddit.com##shreddit-post:has-text(/noobie|noobi|noob|new to|nubie|trump|musk/i)
+sh.reddit.com,www.reddit.com,reddit.com##shreddit-post:has-text(/noobie|noobi|noob|new to|nubie|newbie|trump|musk/i)
 sh.reddit.com,www.reddit.com,reddit.com##shreddit-post:has([href*="x.com"],[href*="twitter.com"])
